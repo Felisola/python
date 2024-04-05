@@ -20,6 +20,9 @@ if velocidade > 80:
 else:
     print('Tenha um bom dia! Dirija com segurança')
 
+print("Se beber nao dirija")
+
+
 
 
 
