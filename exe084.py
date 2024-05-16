@@ -17,7 +17,6 @@ while True:
     if resp in 'Nn':
         break
 print('-=' * 30)
-print(f'Os dados foram {princ}')
 print(f'Ao todo, vocẽ cadastrou {len(princ)} pessoas.')
 print(f'O maior peso foi de {mai}Kg. Peso de ', end='')
 for p in princ:
