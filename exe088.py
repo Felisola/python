@@ -24,4 +24,4 @@ print('-=' * 3, f'SORTEANDO {quant} JOOOS ', '-=' * 3)
 for i, l in enumerate(jogos):
     print(f'Jogo {i+1}: {l}')
     sleep(1)
-print('-=' * 5, ', BOA SORTE! >', '-=' * 5)
+print('-=' * 5, ', BOA SORTE! >', '-=' * 5 )
